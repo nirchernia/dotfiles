@@ -1,4 +1,4 @@
 #dotfiles
 
-![alt tag](https://github.com/nirchernia/dotfiles/screenie.png)
+![alt tag](https://raw.githubusercontent.com/nirchernia/dotfiles/master/screenie.png)
 
