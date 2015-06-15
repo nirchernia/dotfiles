@@ -64,3 +64,7 @@ set wildmenu
 
 " redraw only when we need to.
 set lazyredraw
+
+" new line with the same indentation as the current (in insert mode)
+set autoindent 
+
