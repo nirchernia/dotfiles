@@ -68,3 +68,8 @@ set lazyredraw
 " new line with the same indentation as the current (in insert mode)
 set autoindent 
 
+" move vertically by visual line. So if there's a very long line that gets
+" visually wrapped to two lines, j won't skip over the "fake" part of the
+" visual line in favor of the next "real" line.
+nnoremap j gj
+nnoremap k gk
